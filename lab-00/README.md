@@ -83,7 +83,7 @@ Para configurar la instancia de PWD os vamos a dejar dos opciones, una que consi
 En script se encuentra en el siguiente [enlace](../resources/init-pwd.sh). Tenemos que descargar el script en la maquina de PWD y ejecutarlo con *source* (para mantener las variables de entorno):
 
 ```sh
-wget https://raw.githubusercontent.com/ddtorremocha/openathon_viii_quarkus/main/resources/init-pwd.sh -O init-pwd.sh
+wget https://raw.githubusercontent.com/Accenture/openathon-2021-quarkus/main/resources/init-pwd.sh -O init-pwd.sh
 source init-pwd.sh
 ```
 
