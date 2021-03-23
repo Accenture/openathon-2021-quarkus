@@ -2,7 +2,7 @@
     <img src="resources/header_viii.png">
 </p>
 
-# Openathon VIII QUARKUS 馃殌
+# Openathon VIII QUARKUS
 
 Bienvenidos a una nueva edici贸n de nuestro Openathon de Custom Application. 
 
@@ -14,7 +14,7 @@ El indice de las actividades es:
 
 * [**LAB 0. Algo de teor铆a e instalaci贸n**](./lab-00/README.md)
 * [**LAB 1. Nuestra aplicaci贸n "Hola Openathon!"**](./lab-01/README.md)
-* [**LAB 2. Dockerizando nuestra aplicaci¨?n**](./lab-02/README.md)
+* [**LAB 2. Dockerizando nuestra aplicaci贸n**](./lab-02/README.md)
 * [**LAB 3. Creando una imagen nativa**](./lab-03/README.md)
 * LAB 4. Comparativa con Spring Boot y conclusiones (liberado el mi茅rcoles 24)
 
