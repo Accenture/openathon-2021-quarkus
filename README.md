@@ -14,8 +14,8 @@ El indice de las actividades es:
 
 * [**LAB 0. Algo de teoría e instalación**](./lab-00/README.md)
 * [**LAB 1. Nuestra aplicación "Hola Openathon!"**](./lab-01/README.md)
-* LAB 2. Dockerizando nuestra aplicación (liberado el martes 23)
-* LAB 3. Creando una imagen nativa (liberado el martes 23)
+* [**LAB 2. Dockerizando nuestra aplicaci��?n**](./lab-02/README.md)
+* [**LAB 3. Creando una imagen nativa**](./lab-03/README.md)
 * LAB 4. Comparativa con Spring Boot y conclusiones (liberado el miércoles 24)
 
 Iremos publicando diariamente los distintos laboratorios, para que los participantes podáis ir realizandolos a vuestro ritmo y compartir con la comunidad vuestras dudas y avances.
